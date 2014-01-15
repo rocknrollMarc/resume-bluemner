@@ -4,6 +4,7 @@ gem "middleman"
 gem "middleman-deploy"
 gem "rack-contrib"
 gem "puma"
+gem "maruku"
 
 if /darwin/ =~ RUBY_PLATFORM  # For OS X
     if /darwin13/ =~ RUBY_PLATFORM # For Mavericks that can't use wkpdf yet

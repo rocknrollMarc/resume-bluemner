@@ -71,8 +71,6 @@ helpers do
         now.year - birthday.year - (Date.new(now.year, birthday.month, birthday.day) > now ? 1 : 0)
     end
 end
-activate :directory_indexes
-set :build_dir, "tmp"
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'
