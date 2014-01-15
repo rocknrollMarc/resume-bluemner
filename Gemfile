@@ -1,7 +1,9 @@
 source "https://rubygems.org"
 
-gem "middleman", "~>3.0.11"
-gem "middleman-deploy", "~> 0.0.11"
+gem "middleman"
+gem "middleman-deploy"
+gem "rack-contrib"
+gem "puma"
 
 if /darwin/ =~ RUBY_PLATFORM  # For OS X
     if /darwin13/ =~ RUBY_PLATFORM # For Mavericks that can't use wkpdf yet

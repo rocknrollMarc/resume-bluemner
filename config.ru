@@ -1,17 +1,28 @@
-require 'rubygems'
-require 'bundler'
-Bundler.setup
-require 'middleman'
-require 'middleman-core/preview_server'
+require "rubygems"
 
-module Middleman::PreviewServer
-  def self.preview_in_rack
-    @options = {}
-    @app = new_app
-    start_file_watcher
-  end
-end
+require "rack"
+require "middleman/rack"
+require "rack/contrib/try_static"
 
-Middleman::PreviewServer.preview_in_rack
+# Build the static site when the app boots
+`bundle exec middleman build`
 
-run Middleman::PreviewServer.app
+# Enable proper HEAD responses
+use Rack::Head
+# Attempt to serve static HTML files
+use Rack::TryStatic,
+    :root => "tmp",
+    :urls => %w[/],
+    :try => ['.html', 'index.html', '/index.html']
+
+# Serve a 404 page if all else fails
+run lambda { |env|
+  [
+    404,
+    {
+      "Content-Type"  => "text/html",
+      "Cache-Control" => "public, max-age=60"
+    },
+    File.open("tmp/404/index.html", File::RDONLY)
+  ]
+}

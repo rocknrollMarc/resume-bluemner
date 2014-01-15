@@ -5,7 +5,6 @@
 # git config --global core.excludesfile ~/.gitignore_global
 
 # Ignore bundler config
-/.bundle
 
 # Ignore the build directory
 /build
@@ -13,7 +12,7 @@
 # Ignore Sass' cache
 /.sass-cache
 
-/tmp/
+/tmp
 /Gemfile.lock
 /.ruby-version
 /vendor
