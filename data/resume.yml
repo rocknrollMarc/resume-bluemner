@@ -36,7 +36,7 @@ languages:
       level: Native language
     - name: German
       level: Native language
-    - name: Spannish
+    - name: Spanish
       level: good
 
 alphabetsoup:
