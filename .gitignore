@@ -12,7 +12,5 @@
 # Ignore Sass' cache
 /.sass-cache
 
-/tmp
-/Gemfile.lock
 /.ruby-version
 /vendor
