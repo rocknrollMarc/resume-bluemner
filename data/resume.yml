@@ -10,86 +10,89 @@ headers:
     age: y/o
 
 info:
-    name: Full Name
+    name: Marc Bluemner
     # dob: 1980-01-01 # not mandatory
-    shortdesc: Job Title
-    email: example@example.com
-    phone: (313) - 867-5309 # not mandatory
-    homepage: http://example.com/ # not mandatory
+    shortdesc: Ruby on Rails Developer
+    email: marc.bluemner@gmail.com
+    phone: +49 (0) 17670380501
+    homepage: www.codrspace.com/rocknrollMarc
     address:
-        street: 123 Fake Street
-        city: City
-        region: Region # not mandatory
-        postal_code: 12345 # not mandatory
-        country: Country # not mandatory
+        street: Rittmeisterkoppel. 3a
+        city: Hamburg
+        region: Hamburg
+        postal_code: 22359
+        country: Germany
     desc: |
-        Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.
+        Agile develoment, Scrum, Extreme Programming, TDD / BDD
 
 skills:
     - name: Web design
-      desc: Assertively exploit wireless initiatives rather than synergistic core competencies.
-    - name: Interface Design
-      desc: Credibly streamline mission-critical value with multifunctional functionalities.
-    - name: Project Direction
-      desc: Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
+      desc: Ruby on rails 4, Middleman, Sass / Compass, Node.js, Yeoman, Jquery / Jquery-UI, JS / Coffee, HTML5, rspec, cucumber, Factory_Girl, guard, Pivot-tracker, ActiveRecord, spork, MongoDB, MySQL, Postre, 4D, Wakanda, Cucumber, Java
+    - name: Apps
+      desc: iOS7, Android, Phonegap, xcode, VIM, IntelliJ
 
 languages:
-    - name: Gibberish
+    - name: English
       level: Native language
-    - name: Manager Speak
-      level: Fluent
+    - name: German
+      level: Native language
+    - name: Spannish
+      level: good
 
 alphabetsoup:
     - XHTML
-    - CSS
+    - CSS / Sass
     - Javascript
 
     - Jquery
-    - PHP
-    - CVS / Subversion
+    - Ruby
+    - Git
 
     - OS X
-    - Windows XP/Vista
+    - ZSH / BASH
     - Linux
 
 links:
-    - name: homepage
-      url: http://example.com/
-    - name: Project Page
-      url: https://github.com/reefab/ResumeMan
+    - name: Codrspace
+      url: www.codrspace.com/rocknrollMarc
+    - name: Weisserzauber
+      url: www.Weisserzauber-jungfernstieg.de
+    - name: github
+      url: https://github.com/rocknrollMarc 
 
 jobs:
-    - title: Senior Interface Designer
-      company: Famous Company
+    - title: iOS / Android / Web Developer
+      company: Mampaey design and development
       dates: 
-          start: 2007-01-02
+          start: 2012 
           end: Present
       desc: |
-          Intrinsicly enable optimal core competencies through corporate relationships. 
+          iOS7, Android, xcode, VIM, jenkins, Ant, gradle, html5, javascript, MySQL, MongoDB, Compass, yeoman, active record, rails4, foundation 5, rspec, cucumber  
 
-          Phosfluorescently implement worldwide vortals and client-focused imperatives. 
+         
 
-          Conveniently initiate virtual paradigms and top-line convergence.
+        
 
-    - title: Junior Interface Designer
-      company: Technocorp
+    - title: Android developer
+      company: Fuchs-EDV
       dates: 
-          start: 2005-01-01
-          end: 2007-01-01
+          start: 2011
+          end: 2012
       desc: |
-          Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment. 
-
-          Compellingly morph extensive niche markets with mission-critical ideas. 
-
-          Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits.
-
-education: # this section is not mandatory
-    - name: Indiana University
-      city: Bloomington
-      region: Indiana
-      country: USA # not mandatory
+           4D , Sass/ Compass, Foundation 4, 5, Gumby, Javascript / Coffeescript, Ruby on rails 4, TDD, BDD, VIM, yeoman, MySQL
+    
+    - title: Web developer
+      company: SAP AG
       dates:
-        start: 2001-01-01
-        end: 2010-01-01 # not mandatory
-      title: Dual Major, Economics and English
-      grade: 4.0 GPA # not mandatory
+          start: 2010
+          end: 2011
+      desc: |
+          HTML, XHTML, Homesite, ABAP, CSS 
+
+    - title: Webdeveloper
+      company: Appdream
+      dates: 
+          start: 2009
+          end: 2010
+      desc: |
+          Java, eclipse, html5, NFC
