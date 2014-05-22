@@ -12,7 +12,7 @@ headers:
 info:
     name: Marc Bluemner
     # dob: 1980-01-01 # not mandatory
-    shortdesc: Ruby on Rails Developer
+    shortdesc: Playframework Web developer
     email: marc.bluemner@gmail.com
     phone: +49 (0) 17670380501
     homepage: www.codrspace.com/rocknrollMarc
@@ -27,7 +27,7 @@ info:
 
 skills:
     - name: Web design
-      desc: Ruby on rails 4, Middleman, Sass / Compass, Node.js, Yeoman, Jquery / Jquery-UI, JS / Coffee, HTML5, rspec, cucumber, Factory_Girl, guard, Pivot-tracker, ActiveRecord, spork, MongoDB, MySQL, Postre, 4D, Wakanda, Cucumber, Java
+      desc: Ruby on rails 4, Middleman, Sass / Compass, Node.js, Yeoman, Jquery / Jquery-UI, JS / Coffee, HTML5, rspec, cucumber, Factory_Girl, guard, Pivot-tracker, ActiveRecord, spork, MongoDB, MySQL, Postre, 4D, Wakanda, Cucumber, Java, Playframework2, scala, groovy
     - name: Apps
       desc: iOS7, Android, Phonegap, xcode, VIM, IntelliJ
 
@@ -47,6 +47,10 @@ alphabetsoup:
     - Jquery
     - Ruby
     - Git
+    - Scala
+    - Playframework2
+    - groovy
+    - grails
 
     - OS X
     - ZSH / BASH
@@ -59,19 +63,29 @@ links:
       url: www.Weisserzauber-jungfernstieg.de
     - name: github
       url: https://github.com/rocknrollMarc 
-
+    - name: Linkedin
+      url: https://www.linkedin.com/profile/view?id=81309041&trk=spm_pic   
+    - name: xing
+      url: https://www.xing.com/profile/Marc_Bluemner?sc_o=mxb_p
 jobs:
+    
+    - title: Censhare / Java developer
+      company: MSP AG
+      dates: 
+          start: 2013
+          end: Present
+      desc: |
+        AngularJS, Java, Censhare online channel, Playframework2, scala, EasyB, thucydides, Scrum
+
+
     - title: iOS / Android / Web Developer
       company: Mampaey design and development
       dates: 
           start: 2012 
-          end: Present
+          end: 2013
       desc: |
           iOS7, Android, xcode, VIM, jenkins, Ant, gradle, html5, javascript, MySQL, MongoDB, Compass, yeoman, active record, rails4, foundation 5, rspec, cucumber  
 
-         
-
-        
 
     - title: Android developer
       company: Fuchs-EDV
