@@ -26,7 +26,7 @@ info:
         Agile development, Scrum, Extreme Programming, TDD / BDD
 
 skills:
-    - name: Web design
+    - name: Web Development
       desc: Ruby on rails 4, Middleman, Sass / Compass, Node.js, Yeoman, Jquery / Jquery-UI, JS / Coffee, HTML5, rspec, cucumber, Factory_Girl, guard, Pivot-tracker, ActiveRecord, spork, MongoDB, MySQL, Postre, 4D, Wakanda, Cucumber, Java, Playframework2, scala, groovy, Padrino, Docker, Vagrant, Ansible, MiniTest, Capybara
     - name: QA
       desc: Cucumber / Capybara / Factory_Girls / Ansible / Vagrant / Docker / Jasmine / Mocha / Karma / Aruba / CukeSalad / Minitest / Rspec
