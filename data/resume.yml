@@ -120,3 +120,11 @@ jobs:
       desc: |
           Java, eclipse, html5, NFC
 
+    - title: Open source contributions
+      projects:
+        - methadone
+        - Padrino Book
+        - oh-my-fish
+        - play-angular
+        - angular-rails-book
+
