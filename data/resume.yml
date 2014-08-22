@@ -120,7 +120,3 @@ jobs:
       desc: |
           Java, eclipse, html5, NFC
 
-    - title: Open Source Contributions
-      desc: |
-        Methadone, Angular-rails-book, play-angularjs, The Padrino Book, Oh-my-fish
-
