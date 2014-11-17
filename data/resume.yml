@@ -68,6 +68,13 @@ links:
     - name: xing
       url: https://www.xing.com/profile/Marc_Bluemner?sc_o=mxb_p
 jobs:
+    - title:  Ruby on Rails developer / QA
+      company: Webcare LBJ GmbH
+      dates:
+        start: 2014
+        end: Present
+      desc: |
+        Ruby on rails / rspec / Selenium - webdriver / Capybara / Backbone / Coffeescript
 
     - title:  Ruby on Rails developer / Head of QA
       company: Liquidlabs GmbH
