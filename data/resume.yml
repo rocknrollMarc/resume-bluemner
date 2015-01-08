@@ -76,6 +76,8 @@ links:
       url: https://www.linkedin.com/profile/view?id=81309041&trk=spm_pic   
     - name: xing
       url: https://www.xing.com/profile/Marc_Bluemner?sc_o=mxb_p
+    - name: Octopress Blog
+    url: http://rocknrollmarc.github.io/
 jobs:
     - title:  Ruby on Rails developer / QA
       company: Webcare LBJ GmbH
