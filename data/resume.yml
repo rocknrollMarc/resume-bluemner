@@ -23,11 +23,11 @@ info:
         postal_code: 22359
         country: Germany
     desc: |
-        Agile development, Scrum, Extreme Programming, TDD / BDD
+        Agile development, Scrum, Extreme Programming, TDD / BDD, Refactoring
 
 skills:
-    - name: Web Development
-      desc: Ruby on rails 4, Middleman, Sass / Compass, Node.js, Yeoman, Jquery / Jquery-UI, JS / Coffee, HTML5, rspec, cucumber, Factory_Girl, guard, Pivot-tracker, ActiveRecord, spork, MongoDB, MySQL, Postre, 4D, Wakanda, Cucumber, Java, Playframework2, scala, groovy, Padrino, Docker, Vagrant, Ansible, MiniTest, Capybara
+    - name: Web Development / Refactoring Legancy Enterprise systems / Agile Coaching
+      desc: Ruby on rails 4, Middleman, Sass / Compass, Node.js, Yeoman, Jquery / Jquery-UI, JS / Coffee, HTML5, rspec, cucumber, Factory_Girl, guard,  ActiveRecord, Mongoid, Redis,  spork, MongoDB, MySQL, Postgresql, Wakanda, Cucumber, Java, Jruby, Playframework2, scala, groovy, Padrino, Docker, Vagrant, Ansible,  Capybara, Selenium, Automated Browser testing, AngularJS, Emberjs
     - name: QA
       desc: Cucumber / Capybara / Factory_Girls / Ansible / Vagrant / Docker / Jasmine / Mocha / Karma / Aruba / CukeSalad / Minitest / Rspec
     - name: Apps
@@ -48,6 +48,15 @@ alphabetsoup:
 
     - Jquery
     - Ruby
+    - Rails
+    - Docker
+    - Selenium
+    - Capybara
+    - Watir
+    - Git-flow
+    - Alchemy-CMS
+    - Shopify 
+    - Grape / Api's
     - Git
     - Scala
     - Playframework2
@@ -55,7 +64,7 @@ alphabetsoup:
     - grails
 
     - OS X
-    - ZSH / BASH
+    - ZSH 
     - Linux
 
 links:
@@ -74,7 +83,7 @@ jobs:
         start: 2014
         end: Present
       desc: |
-        Ruby on rails / rspec / Selenium - webdriver / Capybara / Backbone / Coffeescript
+        Ruby on rails / rspec / Selenium - webdriver / Capybara / Backbone / Coffeescript / CMS / CRM / Sublime
 
     - title:  Ruby on Rails developer / Head of QA
       company: Liquidlabs GmbH
@@ -82,7 +91,7 @@ jobs:
         start: 2013
         end: Present
       desc: |
-        Ruby on rails / Vagrant / Docker / Padrino / Cucumber / Capybara / Node.js / Coffeescript / mongoid / mongoose /Kanban 
+        Ruby on rails / Vagrant / Docker / Padrino / Cucumber / Capybara / Node.js / Coffeescript / mongoid / mongoose /Kanban / AngularJS /Batman
 
     
     - title: Censhare / Java developer
@@ -91,7 +100,7 @@ jobs:
           start: 2013
           end: 2013 / December
       desc: |
-        AngularJS, Java, Censhare online channel, Playframework2, scala, EasyB, thucydides, Scrum
+        AngularJS, Java, Censhare online channel, Playframework2, scala, EasyB, thucydides, Scrum, Emacs
 
 
     - title: iOS / Android / Web Developer
