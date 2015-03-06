@@ -4,6 +4,7 @@ headers:
     languages: Languages
     techs: Technical
     jobs: Experiences
+    open-source: Open source Projects I have contributed
     education: Education
     links: Links
     download: Download PDF
@@ -12,7 +13,7 @@ headers:
 info:
     name: Marc Bluemner
     dob: 1980-01-12
-    shortdesc: Ruby on Rails Developer / Head of QA
+    shortdesc: Ruby on Rails full stack developer / Go / NodeJS / Workflow Optimizer / Agile Coach
     email: marc.bluemner@gmail.com
     phone: +49 (0) 17670380501
     homepage: http://rocknrollmarc.github.io/
@@ -23,7 +24,7 @@ info:
         postal_code: 22359
         country: Germany
     desc: |
-        Agile development, Scrum, Extreme Programming, TDD / BDD, Refactoring
+        Agile development, Scrum, Extreme Programming, TDD / BDD, Refactoring / Workflows and Tool
 
 skills:
     - name: Web Development / Refactoring Legancy Enterprise systems / Agile Coaching
@@ -32,6 +33,18 @@ skills:
       desc: Cucumber / Capybara / Factory_Girls / Ansible / Vagrant / Docker / Jasmine / Mocha / Karma / Aruba / CukeSalad / Minitest / Rspec
     - name: Apps
       desc: iOS7, Android, Phonegap, xcode, VIM, IntelliJ
+    - name: Agile Coach / Workflow optimizer
+      desc: Scrum / Kanban / ScrumBan / Product Planning / Rapid Prototyping / Behaviour driven development / Tool selection and optimization / Domain Drive Designe
+    - name: Go
+      desc: Command line apps / Martini / Gin / Revel / Beego / Docker
+    - name: Functional Programming
+      desc: Clojure / scala / NodeJS
+    - name: Nosql
+      desc: Mongoid / Mongoose / Riak / Reddis / RethinkDB / mgo
+    - name: Workflow optimizing
+      desc: Pivotal tracker / Trello / Heroku / googleappenigne / Ansible / Docker / Vagrant / Hugo / Alchems_cms / locomotive_cms / Clojure script / Pickler / Wercker / Docker_hub / Tutum
+    - name: Front-end
+      desc: Zurb-foundation 5 / Twitter bootstrap 4 / Middleman / AngularJS / EmberJS / Sass / Jade / Handlebars / Haml / Slim / Coffeescript
 
 languages:
     - name: English
@@ -52,6 +65,8 @@ alphabetsoup:
     - Docker
     - Selenium
     - Capybara
+    - Hugo
+    - Wercker
     - Watir
     - Git-flow
     - Alchemy-CMS
@@ -62,7 +77,9 @@ alphabetsoup:
     - Playframework2
     - groovy
     - grails
-
+    - Clojure
+    - Go
+    - Ansible
     - OS X
     - ZSH 
     - Linux
@@ -78,12 +95,19 @@ links:
       url: https://www.xing.com/profile/Marc_Bluemner?sc_o=mxb_p
     - name: Octopress Blog
       url: http://rocknrollmarc.github.io/
+    - name: Liquidlabs
+      url: http://liquidlabs.de
+    - name: Pflege.de
+      url: http://pflege.de
+    - name: iverbum / ipieta 
+      url: http://www.ipieta.com
+
 jobs:
     - title:  Ruby on Rails developer / QA
       company: Webcare LBJ GmbH
       dates:
         start: 2014
-        end: Present
+        end: 2015
       desc: |
         Ruby on rails / rspec / Selenium - webdriver / Capybara / Backbone / Coffeescript / CMS / CRM / Sublime
 
@@ -137,4 +161,6 @@ jobs:
           end: 2010
       desc: |
           Java, eclipse, html5, NFC
+
+
 
