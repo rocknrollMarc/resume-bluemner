@@ -111,6 +111,14 @@ jobs:
       desc: |
         Ruby on rails / rspec / Selenium - webdriver / Capybara / Backbone / Coffeescript / CMS / CRM / Sublime
 
+    - title:  Ruby on Rails full stack developer / AnguarlJS 
+      company: MagicLabs GmbH
+      dates:
+        start: 2014
+        end: 2014
+      desc: |
+        Ruby on rails / rspec / Selenium - webdriver / Capybara / Alchemy_CMS / Coffeescript / CMS / AngularJS / Sublime
+
     - title:  Ruby on Rails developer / Head of QA
       company: Liquidlabs GmbH
       dates:
@@ -119,7 +127,6 @@ jobs:
       desc: |
         Ruby on rails / Vagrant / Docker / Padrino / Cucumber / Capybara / Node.js / Coffeescript / mongoid / mongoose /Kanban / AngularJS /Batman
 
-    
     - title: Censhare / Java developer
       company: MSP AG
       dates: 
