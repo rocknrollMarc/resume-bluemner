@@ -30,7 +30,7 @@ skills:
     - name: Web Development / Refactoring Legancy Enterprise systems / Agile Coaching
       desc: Ruby on rails 4, Middleman, Sass / Compass, Node.js, Yeoman, Jquery / Jquery-UI, JS / Coffee, HTML5, rspec, cucumber, Factory_Girl, guard,  ActiveRecord, Mongoid, Redis,  spork, MongoDB, MySQL, Postgresql, Wakanda, Cucumber, Java, Jruby, Playframework2, scala, groovy, Padrino, Docker, Vagrant, Ansible,  Capybara, Selenium, Automated Browser testing, AngularJS, Emberjs
     - name: JVM
-      desc: Java / Clojure / Scala / Groovy / Playframework 2 / Grails / Spring Framework / Vaadin / Spock / Cucumber JVM / Maven / Gradle / Java EE / Eclipse / Spring STS
+      desc: Java / Clojure / Scala / Groovy / Playframework 2 / Grails / Spring Framework / Vaadin / Spock / Cucumber JVM / Maven / Gradle / Java EE / Eclipse / Spring STS / Thucydides (Serenity BDD)
     - name: QA
       desc: Cucumber / Capybara / Factory_Girls / Ansible / Vagrant / Docker / Jasmine / Mocha / Karma / Aruba / CukeSalad / Minitest / Rspec
     - name: Apps
