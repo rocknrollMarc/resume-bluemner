@@ -15,13 +15,13 @@ info:
     dob: 1980-01-12
     shortdesc: Ruby on Rails full stack developer / JVM / Go / NodeJS / Workflow Optimizer / Agile Coach
     email: marc.bluemner@gmail.com
-    phone: +49 (0) 17670380501
+    phone: +49 (0)17650208241
     homepage: http://rocknrollmarc.github.io/
     address:
-        street: Rittmeisterkoppel. 3a
-        city: Hamburg
-        region: Hamburg
-        postal_code: 22359
+        street: Reißeckstr. 13
+        city: Berlin
+        region: Berlin
+        postal_code: 12107
         country: Germany
     desc: |
         Agile development, Scrum, Extreme Programming, TDD / BDD, Refactoring / Workflows and Tool
@@ -39,8 +39,6 @@ skills:
       desc: Scrum / Kanban / ScrumBan / Product Planning / Rapid Prototyping / Behaviour driven development / Tool selection and optimization / Domain Drive Designe
     - name: Go
       desc: Command line apps / Martini / Gin / Revel / Beego / Docker
-    - name: Functional Programming
-      desc: Clojure / scala / NodeJS
     - name: Nosql
       desc: Mongoid / Mongoose / Riak / Reddis / RethinkDB / mgo
     - name: Workflow optimizing
