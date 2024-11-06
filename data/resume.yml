@@ -67,24 +67,19 @@ alphabetsoup:
     - Docker
     - Selenium
     - Capybara
-    - Hugo
-    - Wercker
     - Watir
     - Git-flow
     - Alchemy-CMS
     - Shopify 
-    - Grape / Api's
     - Git
-    - Scala
     - Playframework2
-    - groovy
-    - grails
-    - Clojure
     - Go
     - Ansible
     - OS X
     - ZSH 
     - Linux
+    - Android
+    - ios
 
 links:
     - name: Weisserzauber

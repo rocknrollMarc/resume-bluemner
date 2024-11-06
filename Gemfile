@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
-ruby "1.9.3"
+ruby "3.0.0"
 
-gem "thin"
+gem "thin", "~>1.8.2"
 gem "rack-contrib"
 
 gem 'maruku'
